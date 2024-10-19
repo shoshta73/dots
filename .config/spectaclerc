@@ -1,0 +1,9 @@
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveLocation=file:///home/borna/Pictures/Screenshots/Screenshot_20241018_180431.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

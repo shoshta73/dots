@@ -1,0 +1,13 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/borna/53E1-2738/wallpapers/ORION-sky-ARM.png
+Name1[$e]=ORION-sky-ARM.png
+
+[SideBar]
+InformationSplitterSizes=211,244
